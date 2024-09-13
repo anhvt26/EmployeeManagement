@@ -1,0 +1,39 @@
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll

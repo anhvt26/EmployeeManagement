@@ -1,0 +1,36 @@
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\tuana\OneDrive\Desktop\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\New folder\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\X1 Yoga Gen 7\OneDrive\Desktop\Sources\Employee\EmployeeManagement\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
